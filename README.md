@@ -5,11 +5,11 @@
 
 ## I'm a  Developer,Inventor🐱‍💻   and Teacher!!
 
-- 🔭 I just launched my first course: [Become A C++ Master!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Develop many passive income developer projects.
-- ⚡ Fun fact: I love to invent new things,software and hardware alike😎
+ 🔭 I just launched my first course: [Become A C++ Master!][course]!
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: Develop many passive income streams.
+⚡ Fun fact: I love to invent new things,software and hardware alike😎
 
 ### Connect with me:
 
