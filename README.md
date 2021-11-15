@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Fortune.DEV&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fortunedevacademy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithfortune?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codewithfortune)
 
-## I'm a  Developer,Inventor🐱‍💻   and Teacher!!
+## I'm a  Developer,Inventor🐱‍💻   and Content Creator
 
  🔭 I just launched my first course: [Become A C++ Master!][course]!
 🌱 I’m currently learning everything 🤣
