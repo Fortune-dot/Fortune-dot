@@ -3,12 +3,11 @@
 [![Website](https://img.shields.io/website?label=Fortune.DEV&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fortunedevacademy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithfortune?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codewithfortune)
 
-## I'm a  Developer,Inventor🐱‍💻   and Content Creator
+## I'm a  Passionate Web Developer 🐱‍💻 and Content Creator
 
- 🔭 I just launched my first course: [Become A C++ Master!][course]!
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2022 Goals: Develop many passive income streams.
+🌱 I’m currently learning everything 
+👯 I’m looking to collaborate with other content creators,
+ 2022 Goals: Develop many passive income streams.
 ⚡ Fun fact: I love to invent new things,software and hardware alike😎
 
 ### Connect with me:
