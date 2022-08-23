@@ -31,8 +31,6 @@
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
@@ -49,9 +47,6 @@
 <!-- YOUTUBE:START -->
 - [Bootstrap and Vue js Tutorial](https://www.youtube.com/watch?v=KZGzo0bkiLY)
 - [Build 100 PHP Projects:Beginner to Mastery](https://www.youtube.com/watch?v=JENei5X1vzs)
-- [Introduction to OOP in C++🐱‍👤](https://www.youtube.com/watch?v=Rt6vtIxiJ4k)
-- [I made and Published a Chrome Extension](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-- [Get users IP Adresss using PHP ](https://www.youtube.com/watch?v=XyIXjjEW56w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/fortunedevacademy)
