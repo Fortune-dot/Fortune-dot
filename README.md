@@ -5,10 +5,8 @@
 
 ## I'm a  Passionate Software Developer 👨‍💻 and Content Creator
 
-🌱 I’m currently learning everything 
-👯 I’m looking to collaborate with other content creators,
- 2022 Goals: Develop many passive income streams.
-⚡ Fun fact: I love to invent new things,software and hardware alike😎
+🌱 I’m currently learning Payment Integrations
+ 2022 Goals: Develop many passive income streams and give back to the dev community
 
 ### Connect with me:
 
