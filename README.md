@@ -6,7 +6,8 @@
 ## I'm a  Passionate Software Developer 👨‍💻 and Content Creator
 
 🌱 I’m currently learning Payment Integrations
- 2022 Goals: Develop many passive income streams and give back to the dev community
+<br/>
+ 🎯Goals: Develop many passive income streams and give back to the Dev community
 
 ### Connect with me:
 
